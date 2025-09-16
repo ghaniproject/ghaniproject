@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-Saya seorang <b>Software Engineer</b> yang suka membangun website interaktif, baru, dan modern. Menambah fitur-fitur terbaru di aplikasi bukan hanya pekerjaan, tapi sumber kebahagiaan bagi saya! Setiap tantangan dalam dunia pengembangan web adalah peluang untuk belajar dan berkembang.
+I am a <b>Software Engineer</b> who loves building interactive, new, and modern websites. Adding the latest features to applications is not just a job, but a source of happiness for me! Every challenge in the world of web development is an opportunity to learn and grow.
 
 ---
 
@@ -46,7 +46,7 @@ Saya seorang <b>Software Engineer</b> yang suka membangun website interaktif, ba
 
 ### 🌱 Fun Fact
 
-Selain coding, saya suka bereksperimen dengan desain di Figma, dan selalu mencari inspirasi untuk membuat aplikasi yang lebih baik dan lebih interaktif!
+Besides coding, I enjoy experimenting with designs in Figma, and I'm always looking for inspiration to create better and more interactive applications!
 
 ---
 
