@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Ghani 👋</h1>
 <p align="center">
-  <b>Software Engineer • Web Enthusiast • Creator of Modern Interactive Experiences</b>
+  <b>Software Engineer • App Developer/Fullstack • Creator of Modern Interactive Experiences</b>
 </p>
 
 ---
