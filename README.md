@@ -20,7 +20,7 @@
 
 Hello! I am a **Software Engineer** & **Fullstack Developer** based in Indonesia 🇮🇩. I am highly passionate about building interactive, modern, and high-performance web applications. For me, coding is not just a job, but a medium to express creativity and solve real-world problems.
 
-- 🔭 **Current Focus:** Developing web applications using **React**, **Angular**,**Next.js**, **Node.js**, and **Laravel**.
+- 🔭 **Current Focus:** Developing web applications using **React**, **Angular**, **Next.js**, **Node.js**, and **Laravel**.
 - 🎨 **UI/UX Enthusiast:** Love experimenting with designs in **Figma** to create beautiful and intuitive interfaces.
 - 🚀 **Goal:** Constantly learning new technologies and collaborating on innovative projects.
 - 💡 **Motto:** *"Every challenge is an opportunity to learn and grow."*
@@ -80,22 +80,6 @@ Hello! I am a **Software Engineer** & **Fullstack Developer** based in Indonesia
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Ghani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghaniproject&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9)](https://github.com/anuraghazra/github-readme-stats)
-[![Ghani's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghaniproject&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
-[![Ghani's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghaniproject&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -105,31 +89,6 @@ Hello! I am a **Software Engineer** & **Fullstack Developer** based in Indonesia
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaniproject/ghaniproject/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghaniproject/ghaniproject/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ghaniproject/ghaniproject/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Ghani's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ghaniproject&theme=tokyonight&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📫 Let's Connect!
 
