@@ -75,7 +75,7 @@ Hello! I am a **Software Engineer** & **Fullstack Developer** based in Indonesia
 
 | 🔥 Project | 📝 Description | 🛠️ Tech | ⭐ |
 |:---:|:---|:---:|:---:|
-| [**split-bill-calculator**](https://github.com/ghaniproject/split-bill-calculator) | Split Bill Calculator is a simple web application that helps you split bills among friends | React, Tailwind CSS, JavaScript | [![Stars](https://img.shields.io/github/stars/ghaniproject/split-bill-calculator?style=flat-square&color=gold)](https://github.com/ghaniproject/split-bill-calculator) |
+| [**split-bill-calculator**](https://github.com/ghaniproject/split-bill-calculator) | Split Bill Calculator is a simple web application that helps you split bills among friends | React, NextJS, Tailwind CSS, Typescript, Supabase, Vercel| [![Stars](https://img.shields.io/github/stars/ghaniproject/split-bill-calculator?style=flat-square&color=gold)](https://github.com/ghaniproject/split-bill-calculator) |
 | [**catering-order-microlink**](https://github.com/ghaniproject/catering-order-microlink) | Microsite for catering order | Blade, Laravel, MySql | [![Stars](https://img.shields.io/github/stars/ghaniproject/catering-order-microlink?style=flat-square&color=gold)](https://github.com/ghaniproject/catering-order-microlink) |
 
 </div>
