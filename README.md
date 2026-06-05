@@ -86,14 +86,12 @@ Hello! I am a **Software Engineer** & **Fullstack Developer** based in Indonesia
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghaniproject&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaniproject&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9"/>
+[![Ghani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghaniproject&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9)](https://github.com/anuraghazra/github-readme-stats)
+[![Ghani's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghaniproject&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+<br/>
 
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghaniproject&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9" />
+[![Ghani's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghaniproject&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9)](https://git.io/streak-stats)
 
 </div>
 
@@ -103,7 +101,7 @@ Hello! I am a **Software Engineer** & **Fullstack Developer** based in Indonesia
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghaniproject&theme=tokyo-night&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FF6B6B&area=true&hide_border=true" width="100%" />
+[![Ghani's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ghaniproject&theme=tokyo-night&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -127,7 +125,7 @@ Hello! I am a **Software Engineer** & **Fullstack Developer** based in Indonesia
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ghaniproject&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" />
+[![Ghani's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ghaniproject&theme=tokyonight&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
