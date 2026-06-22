@@ -18,13 +18,6 @@
 
 Hello! I’m based in Indonesia 🇮🇩 and absolutely love turning lines of code into lively, interactive, and high-performance web experiences. For me, coding is far more than just staring at a dark screen and typing commands; it’s a creative outlet to solve real-world problems and bring meaningful ideas to life.
 
-
-<div align="center">
-
-![available](https://img.shields.io/badge/🟢%20Available%20for%20Work-Open%20to%20Opportunities-brightgreen?style=flat-square)
-
-</div>
-
 ---
 
 ## Tech Stack
