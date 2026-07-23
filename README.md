@@ -76,7 +76,7 @@ Hello! I’m based in Indonesia 🇮🇩 and absolutely love turning lines of co
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghaniyyu-imanudin)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ghani17.jpg)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghaniproject)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/ghaniproject/portofolio-ghani)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=firefox&logoColor=white)]([https://github.com/ghaniproject/portofolio-ghani](https://portofolio-ghani.ghaniyyuimanudin.workers.dev/))
 
 <br/>
 
