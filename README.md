@@ -22,32 +22,29 @@ Hello! I’m based in Indonesia 🇮🇩 and absolutely love turning lines of co
 
 ## Tech Stack
 
-<div align="center">
-  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/dart-02569B?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-  
-</div>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=nest" alt="NestJS" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
+</p>
 ---
 
 ## Featured Projects
