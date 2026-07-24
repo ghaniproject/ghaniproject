@@ -45,7 +45,6 @@ Hello! I’m based in Indonesia 🇮🇩 and absolutely love turning lines of co
   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
   <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
 </p>
----
 
 ## Featured Projects
 
